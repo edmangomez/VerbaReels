@@ -1,0 +1,58 @@
+[
+  {
+    "id": "montserrat",
+    "family": "Montserrat",
+    "css": "'Montserrat', sans-serif",
+    "weight": 700,
+    "file": "montserrat.ttf"
+  },
+  {
+    "id": "playfair",
+    "family": "Playfair Display",
+    "css": "'Playfair Display', serif",
+    "weight": 700,
+    "file": "playfair.ttf"
+  },
+  {
+    "id": "bebas",
+    "family": "Bebas Neue",
+    "css": "'Bebas Neue', sans-serif",
+    "weight": 400,
+    "file": "bebas.ttf"
+  },
+  {
+    "id": "pacifico",
+    "family": "Pacifico",
+    "css": "'Pacifico', cursive",
+    "weight": 400,
+    "file": "pacifico.ttf"
+  },
+  {
+    "id": "anton",
+    "family": "Anton",
+    "css": "'Anton', sans-serif",
+    "weight": 400,
+    "file": "anton.ttf"
+  },
+  {
+    "id": "lobster",
+    "family": "Lobster",
+    "css": "'Lobster', cursive",
+    "weight": 400,
+    "file": "lobster.ttf"
+  },
+  {
+    "id": "greatvibes",
+    "family": "Great Vibes",
+    "css": "'Great Vibes', cursive",
+    "weight": 400,
+    "file": "greatvibes.ttf"
+  },
+  {
+    "id": "oswald",
+    "family": "Oswald",
+    "css": "'Oswald', sans-serif",
+    "weight": 700,
+    "file": "oswald.ttf"
+  }
+]

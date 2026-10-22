@@ -1,0 +1,11 @@
+{
+  "_comment": "Multiplicador de grosor de contorno por fuente: fuentes finas necesitan más borde para leerse sobre video; gruesas menos. outline_ass = slider_outline * mult",
+  "anton": 0.7,
+  "montserrat": 1.0,
+  "oswald": 1.1,
+  "bebas": 1.0,
+  "playfair": 1.2,
+  "lobster": 1.4,
+  "pacifico": 1.5,
+  "greatvibes": 1.6
+}

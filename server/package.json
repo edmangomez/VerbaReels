@@ -1,0 +1,18 @@
+{
+  "name": "reels-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch-path=index.js --watch-path=ai.js --watch-path=describe.js --watch-path=pexels.js --watch-path=lib --watch-path=subtitle.js --watch-path=extraText.js --watch-path=images.js --watch-path=render.js index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dictionary-es": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "msedge-tts": "^2.0.7",
+    "nspell": "^2.1.5",
+    "puppeteer": "^25.11.0"
+  }
+}

@@ -1,0 +1,37 @@
+# Dependencias
+node_modules/
+
+# Entornos y claves sensibles
+.env
+.env.*
+*.env
+!.env.example
+client/.env*
+server/.env*
+server/settings.json
+
+# Builds de producción
+dist/
+client/dist/
+
+# Renders locales y base de datos local
+server/tmp/
+server/renders/
+server/data/
+
+# Fuentes descargadas dinámicamente (se descargan con npm run download:fonts)
+server/assets/fonts/*.ttf
+server/assets/fonts/*.otf
+
+# Logs
+*.log
+npm-debug.log*
+
+# Metadatos de editores y agentes
+.agents/
+.claude/
+.opencode/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
